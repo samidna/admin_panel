@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+form {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20200714/pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg);
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+body {
+    background-color: grey;
+}
+
+.exitbtn {
+    float: right;
+    width: 100px;
+    height: 35px;
+    margin: 5px;
+}
+
+input {
+    border-radius: 5px;
+    border: none;
+    display: inline-block;
+}
+
+
+label {
+    margin: 5px;
+    color: white;
+}
+
+button {
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#description {
+    border-radius: 5px;
+}
